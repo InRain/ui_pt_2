@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentStackDemo</string>
+    <string name="first_stack">First Stack</string>
+    <string name="second_stack">Second Stack</string>
+    <string name="first">FIRST</string>
+    <string name="second">SECOND</string>
+    <string name="counter_initial">0</string>
+</resources>
